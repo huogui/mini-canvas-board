@@ -1,12 +1,12 @@
 {
-  "name": "vite-vue3-component-ts",
+  "name": "mini-canvas-board",
   "version": "0.0.1",
-  "main": "./lib/vite-vue3-component-ts.umd.js",
-  "module": "./lib/vite-vue3-component-ts.es.js",
+  "main": "./lib/mini-canvas-board.umd.js",
+  "module": "./lib/mini-canvas-board.es.js",
   "exports": {
     ".": {
-      "import": "./lib/vite-vue3-component-ts.es.js",
-      "require": "./lib/vite-vue3-component-ts.umd.js"
+      "import": "./lib/mini-canvas-board.es.js",
+      "require": "./lib/mini-canvas-board.umd.js"
     },
     "./lib/style.css": {
       "import": "./lib/style.css",
@@ -16,9 +16,9 @@
   "types": "./types/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/next-dev-template/vite-vue3-component-ts"
+    "url": "https://github.com/next-dev-template/mini-canvas-board"
   },
-  "homepage": "https://next-dev-template.github.io/vite-vue3-component-ts",
+  "homepage": "https://next-dev-template.github.io/mini-canvas-board",
   "files": [
     "lib",
     "types"
