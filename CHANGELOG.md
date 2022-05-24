@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/next-dev-template/mini-canvas-board/compare/v0.0.4...v0.0.5) (2022-05-24)
+
+
+### Features
+
+* 重新构建下 ([de4bf03](https://github.com/next-dev-template/mini-canvas-board/commit/de4bf03e5d20421d996e7e42b3947a7d8721ab77))
+* 重新构建下 ([1a6637c](https://github.com/next-dev-template/mini-canvas-board/commit/1a6637ccce6e1a617b5ec8604c3581281cb26cc5))
+
 ### [0.0.4](https://github.com/next-dev-template/mini-canvas-board/compare/v0.0.3...v0.0.4) (2022-05-24)
 
 
