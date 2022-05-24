@@ -64,6 +64,7 @@ export function main() {
       const [ x1, y1 ] = points[index];
       const [ x2, y2 ] = points[index + 1];
       const [ x, y ] = [ (x1 + x2) / 2, (y1 + y2) / 2 ];
+      // 贝塞尔曲线
       ctx.quadraticCurveTo(x1, y1, x, y);
       index++;
       ctx.stroke();
