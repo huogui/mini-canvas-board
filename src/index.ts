@@ -41,10 +41,10 @@ export function main() {
   const topCtx = topCanvas.getContext('2d') as CanvasRenderingContext2D;
 
 
-  topCtx.lineWidth = 10;
+  topCtx.lineWidth = 8;
   topCtx.lineCap = 'round';
   topCtx.lineJoin = 'round';
-  ctx.lineWidth = 10;
+  ctx.lineWidth = 8;
   ctx.lineCap = 'round';
   ctx.lineJoin = 'round';
 
