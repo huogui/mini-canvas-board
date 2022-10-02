@@ -39,9 +39,9 @@
   "devDependencies": {
     "@commitlint/cli": "^16.2.4",
     "@commitlint/config-conventional": "^16.2.4",
+    "@huogui/eslint-config": "^1.1.30",
     "@vitejs/plugin-vue": "^2.3.1",
     "eslint": "^8.15.0",
-    "eslint-config-jammy": "^0.0.9",
     "husky": "^8.0.1",
     "less": "^4.1.2",
     "lint-staged": "^12.4.1",
